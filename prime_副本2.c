@@ -23,5 +23,6 @@ int main(void)
     }
 
     printf(is_prime ? "is prime\n" : "is not prime\n");
+    
     return 0;
 }
